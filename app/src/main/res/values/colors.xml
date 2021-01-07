@@ -8,4 +8,6 @@
     <color name="textDark">#FFFFFF</color>
     <color name="colorLight">#FFFFFF</color>
     <color name="colorDark">#000000</color>
+
+    <color name="adaptive_background">#FF000000</color>
 </resources>
